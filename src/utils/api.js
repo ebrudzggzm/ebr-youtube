@@ -7,7 +7,7 @@ const api = axios.create({
       lang: 'tr',
     },
     headers: {
-        'X-RapidAPI-Key': '0088e954bemsh3f8f6ef04cb185ep12e058jsn9d9f93d2b743',
+        'X-RapidAPI-Key': 'your key is here',
         'X-RapidAPI-Host': 'yt-api.p.rapidapi.com'
       }
 
